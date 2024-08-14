@@ -761,14 +761,7 @@ body.rtl .elementor-176 .elementor-element.elementor-element-097697c {
     margin-top: 45px;
 }
 
-.elementor-176 .elementor-element.elementor-element-98fbe7f:not(.elementor-motion-effects-element-type-background),
-.elementor-176 .elementor-element.elementor-element-98fbe7f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #F1FAFF;
-    background-image: url("https://i0.wp.com/progrisaas.archiwp.com/wp-content/uploads/2021/04/bg4-about-us.jpg?fit=1920%2C734&ssl=1");
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+
 
 .elementor-176 .elementor-element.elementor-element-98fbe7f {
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
