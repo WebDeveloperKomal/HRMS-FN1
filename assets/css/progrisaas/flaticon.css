@@ -1,6 +1,6 @@
 @font-face {
     font-display: swap;
-    font-family: "Flaticon";
+    font-family: 'Montserrat';
     src: url(../../../../../../../themes/progrisaas/fonts/Flaticon.eot);
     src: url("../../../../../../../themes/progrisaas/fonts/Flaticon.eot?#iefix") format("embedded-opentype"), url(../../../../../../../themes/progrisaas/fonts/Flaticon.woff2) format("woff2"), url(../../../../../../../themes/progrisaas/fonts/Flaticon.woff) format("woff"), url(../../../../../../../themes/progrisaas/fonts/Flaticon.ttf) format("truetype"), url("../../../../../../../themes/progrisaas/fonts/Flaticon.svg#Flaticon") format("svg");
     font-weight: 400;
@@ -10,124 +10,126 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
     @font-face {
         font-display: swap;
-        font-family: "Flaticon";
+        font-family: 'Montserrat';
         src: url("../../../../../../../themes/progrisaas/fonts/Flaticon.svg#Flaticon") format("svg")
     }
 }
-
+/* Use Font Awesome */
 [class^="ot-flaticon-"]:before,
 [class*=" ot-flaticon-"]:before,
 [class^="ot-flaticon-"]:after,
 [class*=" ot-flaticon-"]:after {
-    font-family: Flaticon;
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900; /* Required for Font Awesome icons */
     font-size: 20px;
-    font-style: normal
+    font-style: normal;
 }
 
+/* Replace each custom icon with its Font Awesome equivalent */
 .ot-flaticon-telephone:before {
-    content: "\f100"
+    content: "\f095"; /* Phone icon */
 }
 
 .ot-flaticon-chat:before {
-    content: "\f101"
+    content: "\f27a"; /* Comment dots icon */
 }
 
 .ot-flaticon-group:before {
-    content: "\f102"
+    content: "\f0c0"; /* Users icon */
 }
 
 .ot-flaticon-cart:before {
-    content: "\f103"
+    content: "\f07a"; /* Shopping cart icon */
 }
 
 .ot-flaticon-schedule:before {
-    content: "\f104"
+    content: "\f073"; /* Calendar icon */
 }
 
 .ot-flaticon-calendar:before {
-    content: "\f105"
+    content: "\f133"; /* Alternate calendar icon */
 }
 
 .ot-flaticon-coding:before {
-    content: "\f106"
+    content: "\f121"; /* Code icon */
 }
 
 .ot-flaticon-chat-1:before {
-    content: "\f107"
+    content: "\f4ad"; /* Comment alternate icon */
 }
 
 .ot-flaticon-headphone:before {
-    content: "\f108"
+    content: "\f025"; /* Headphones icon */
 }
 
 .ot-flaticon-magnifiying-glass:before {
-    content: "\f109"
+    content: "\f002"; /* Search icon */
 }
 
 .ot-flaticon-left-quotes-sign:before {
-    content: "\f10a"
+    content: "\f10d"; /* Quote left icon */
 }
 
 .ot-flaticon-profile:before {
-    content: "\f10b"
+    content: "\f2bd"; /* User circle icon */
 }
 
 .ot-flaticon-up:before {
-    content: "\f10c"
+    content: "\f062"; /* Arrow up icon */
 }
 
 .ot-flaticon-left:before {
-    content: "\f10d"
+    content: "\f060"; /* Arrow left icon */
 }
 
 .ot-flaticon-right:before {
-    content: "\f10e"
+    content: "\f061"; /* Arrow right icon */
 }
 
 .ot-flaticon-close:before {
-    content: "\f10f"
+    content: "\f00d"; /* Times (close) icon */
 }
 
 .ot-flaticon-right-arrow:before {
-    content: "\f110"
+    content: "\f061"; /* Arrow right icon */
 }
 
 .ot-flaticon-up-arrow:before {
-    content: "\f111"
+    content: "\f062"; /* Arrow up icon */
 }
 
 .ot-flaticon-left-arrow:before {
-    content: "\f112"
+    content: "\f060"; /* Arrow left icon */
 }
 
 .ot-flaticon-down-arrow:before {
-    content: "\f113"
+    content: "\f063"; /* Arrow down icon */
 }
 
 .ot-flaticon-grid:before {
-    content: "\f114"
+    content: "\f009"; /* Th-large icon */
 }
 
 .ot-flaticon-list:before {
-    content: "\f115"
+    content: "\f03a"; /* List icon */
 }
 
 .ot-flaticon-menu-of-three-lines:before {
-    content: "\f116"
+    content: "\f0c9"; /* Bars (hamburger menu) icon */
 }
 
 .ot-flaticon-quote:before {
-    content: "\f117"
+    content: "\f10e"; /* Quote right icon */
 }
 
 .ot-flaticon-check:before {
-    content: "\f118"
+    content: "\f00c"; /* Check icon */
 }
 
 .ot-flaticon-link1:before {
-    content: "\f119"
+    content: "\f0c1"; /* Link icon */
 }
 
 .ot-flaticon-play:before {
-    content: "\f11a"
+    content: "\f04b"; /* Play icon */
 }

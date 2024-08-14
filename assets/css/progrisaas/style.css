@@ -6139,7 +6139,7 @@ object {
 .ot-tabs__content ol li:before {
     content: "\f118";
     position: absolute;
-    font-family: "Flaticon";
+    font-family: 'Montserrat';
     font-size: 10px;
     color: #39b14a;
     left: 0;
@@ -6496,13 +6496,13 @@ object {
 .ot-pricing-table__features-list ol.pricing-features-items {
     margin-bottom: 40px
 }
-
 .ot-pricing-table__features-list ul li:not(.pricing-features-item):before,
 .ot-pricing-table__features-list ol li:not(.pricing-features-item):before {
-    content: "\f118";
-    font-family: "Flaticon";
+    content: "\f00c"; /* Font Awesome checkmark icon */
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900; /* Required for Font Awesome icons */
     font-size: 11px;
-    margin-right: 22px
+    margin-right: 22px;
 }
 
 .ot-pricing-table__features-list ul li.pricing-features-item,
