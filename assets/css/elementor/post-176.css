@@ -1,10 +1,3 @@
-.elementor-176 .elementor-element.elementor-element-3d89c69:not(.elementor-motion-effects-element-type-background),
-.elementor-176 .elementor-element.elementor-element-3d89c69>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("https://i0.wp.com/progrisaas.archiwp.com/wp-content/uploads/2021/04/bg1-home1.png?fit=1920%2C1076&ssl=1");
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 .elementor-176 .elementor-element.elementor-element-3d89c69 {
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -233,13 +226,7 @@
     background-image: linear-gradient(180deg, #F0FAFF 52%, #FFFFFF 100%);
 }
 
-.elementor-176 .elementor-element.elementor-element-f8732bc>.elementor-background-overlay {
-    background-image: url("https://i0.wp.com/progrisaas.archiwp.com/wp-content/uploads/2021/04/bg3-home1.png?fit=1131%2C1230&ssl=1");
-    background-position: -3% -11em;
-    background-repeat: no-repeat;
-    opacity: 1;
-    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
-}
+
 
 .elementor-176 .elementor-element.elementor-element-f8732bc {
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -417,12 +404,7 @@ body:not(.rtl) .elementor-176 .elementor-element.elementor-element-145cf07 .elem
     margin: 0px 15px 38px 15px;
 }
 
-.elementor-176 .elementor-element.elementor-element-0791883:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
-.elementor-176 .elementor-element.elementor-element-0791883>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("https://i0.wp.com/progrisaas.archiwp.com/wp-content/uploads/2021/04/bg2-philosophy.png?fit=270%2C255&ssl=1");
-    background-position: 294px 298px;
-    background-repeat: no-repeat;
-}
+
 
 .elementor-176 .elementor-element.elementor-element-0791883:hover>.elementor-element-populated {
     background-color: #F0FAFF;
@@ -519,12 +501,7 @@ body:not(.rtl) .elementor-176 .elementor-element.elementor-element-1694524 .elem
     background-color: #223354;
 }
 
-.elementor-176 .elementor-element.elementor-element-d2b0fd1:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
-.elementor-176 .elementor-element.elementor-element-d2b0fd1>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("https://i0.wp.com/progrisaas.archiwp.com/wp-content/uploads/2021/04/bg3-philosophy.png?fit=173%2C250&ssl=1");
-    background-position: 392px 303px;
-    background-repeat: no-repeat;
-}
+
 
 .elementor-176 .elementor-element.elementor-element-d2b0fd1:hover>.elementor-element-populated {
     background-color: #F0FAFF;
